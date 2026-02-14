@@ -67,8 +67,6 @@ This makes it impossible for User A to access User B's bookmarks, even through d
 
 **Solution**: 
 - Added better error handling in `lib/supabase.ts` to check if variables exist
-- Created `.env.local.example` template
-- Added clear setup instructions in `SETUP.md`
 - Improved error messages to guide users
 
 ### Problem 2: OAuth Redirect Loop
