@@ -1,6 +1,3 @@
--- Smart Bookmarks Database Schema
--- Run this in Supabase SQL Editor
-
 -- Create bookmarks table
 create table bookmarks (
   id uuid default gen_random_uuid() primary key,
