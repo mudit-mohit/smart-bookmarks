@@ -2,8 +2,8 @@
 
 A full-stack bookmark management application built with Next.js, Supabase, and Tailwind CSS. Users can sign in with Google OAuth, save bookmarks with real-time synchronization across multiple tabs, and manage their personal bookmark collection.
 
-🔗 **Live Demo**: [https://your-app.vercel.app](https://your-app.vercel.app)  
-📦 **GitHub Repository**: [https://github.com/yourusername/smart-bookmarks](https://github.com/yourusername/smart-bookmarks)
+🔗 **Live Demo**: [https://smart-bookmarks-seven.vercel.app/](https://smart-bookmarks-seven.vercel.app/)
+📦 **GitHub Repository**: [https://github.com/mudit-mohit/smart-bookmarks](https://github.com/mudit-mohit/smart-bookmarks)
 
 ---
 
